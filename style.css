@@ -1,0 +1,61 @@
+/* Background color - gradial radiant to match bright colors associated with the 60s */
+.bg-1{
+	background: radial-gradient(circle, red, orange, yellow, green);
+}
+
+/* Margin for text elements*/
+.about-margin{
+	margin: 40px; 
+}
+/*Makes video player center and bigger on performance page */
+video{
+    width: 100%;
+    height: auto;
+}
+
+/* margin for the contact page */
+.contact-margin{
+	margin: 20px;
+}
+/* Style all font awesome icons */
+.fa {
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Hover efffect for buttons */
+.fa:hover {
+    opacity: 0.7;
+}
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+/* YouTube*/
+.fa-youtube{
+	background: #bb0000;
+	color: white;
+}
+/* Footer for social media tabs */
+.footer {
+   padding: 10px 0;
+}
+.footer a {
+  font-size: 20px;
+  padding: 10px;
+  transition: all .5s ease;
+}
+.footer a:hover {
+  color: white;
+}
