@@ -18,9 +18,7 @@ video{
     width: 50px;
     text-align: center;
     text-decoration: none;
-    margin: 50px;
-    display: flex;
-    justify-content: center;
+    margin: 25px;
 }
 
 /* Hover efffect for buttons */
