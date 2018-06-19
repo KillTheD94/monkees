@@ -1,6 +1,6 @@
 Monkees development projects for the Code Institute
 
-This is an Angular 1.5.x Single Page Application that uses HTMl, CSS and ANgular to create a band wwebsite.
+This is an Angular 1.5.x Single Page Application that uses HTMl, CSS and Angular to create a band wwebsite.
 
 There is also o custom JavaScript to complete the form for the contact page.
 
