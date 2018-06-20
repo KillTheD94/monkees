@@ -12,20 +12,8 @@ video{
 .contact-margin{
 	margin: 20px;
 }
-/* Style all font awesome icons */
-.fa {
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-    margin: 25px;
-}
-
-/* Hover efffect for buttons */
-.fa:hover {
-    opacity: 0.7;
-}
 /* Footer for social media tabs */
-icon-bar {
+.icon-bar {
   position: fixed;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -42,7 +30,7 @@ icon-bar {
   color: white;
   font-size: 20px;
 }
-/* Style the social media icons with color, if you want */
+/* Style the social media icons with color */
 .icon-bar a:hover {
   background-color: #000;
 }
