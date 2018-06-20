@@ -43,6 +43,7 @@ video{
 /* Footer for social media tabs */
 .footer {
    padding: 10px 0;
+   background-color: black;
 }
 .footer a {
   font-size: 20px;
