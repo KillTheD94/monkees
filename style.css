@@ -14,7 +14,6 @@ video{
 }
 /* Footer for social media tabs */
 .icon-bar {
-  position: fixed;
   top: 50%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
